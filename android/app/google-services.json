@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "448833194889",
+    "firebase_url": "https://khoa-b04cc-default-rtdb.firebaseio.com",
+    "project_id": "khoa-b04cc",
+    "storage_bucket": "khoa-b04cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448833194889:android:9514037fce3b6fe78fef58",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqIyMB9Jonooy-UedjFjEznWJf14Dxas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
